@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="student_report_options">
+        <item>Blues</item>
+        <item>Jazz</item>
+        <item>Rock</item>
+        <item>Hip Hop</item>
+    </string-array>
+</resources>
